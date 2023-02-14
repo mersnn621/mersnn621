@@ -13,3 +13,7 @@
 こいつにメールする
 --------
 e-mail:mersnn621@gmail.com
+
+こいつにDMする
+--------
+Twitter:[@mersnn621](https://twitter.com/mersnn621)
