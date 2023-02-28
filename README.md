@@ -13,6 +13,8 @@
 こいつにメールする
 --------
 e-mail:mersnn621@gmail.com
+ちなみに需要ないと思うけどhkps://keys.openpgp.orgにgpgの鍵置いてあるよ
+
 
 こいつにDMする
 --------
