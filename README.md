@@ -13,7 +13,10 @@
 こいつにメールする
 --------
 e-mail:mersnn621@gmail.com
+
 ちなみに需要ないと思うけどhkps://keys.openpgp.orgにgpgの鍵置いてあるよ
+
+Fingerprint : F7F6 D36F E81B E0BC A5F9  8C61 60C5 31B4 E02F 3DFE
 
 
 こいつにDMする
