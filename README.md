@@ -18,6 +18,3 @@ e-mail:mersnn621@gmail.com
 --------
 Twitter:[@mersnn621](https://twitter.com/mersnn621)
 
-とりまApple Music
--------
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000934.923b0416c1164c79b8bc2b06b4200f60.1304)](https://github.com/rayriffy/apple-music-github-profile)
